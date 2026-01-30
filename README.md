@@ -52,36 +52,3 @@ public class VagnerCazarotto implements SeniorArchitect {
 }
 ```
 
----
-
-## 🌟 Highlights
-
-- 🏗️ **Architect & Builder:** Designed and delivered enterprise-grade platforms in fintech and mobility sectors
-- 🚀 **Performance Expert:** Specialized in building high-throughput, low-latency distributed systems
-- 🌍 **Global Experience:** Worked across Europe and Latin America with multicultural teams
-- 🤖 **Innovation Driver:** Integrating AI/ML solutions into production-grade systems
-- 📈 **Scalability Focus:** Built systems handling millions of requests with 99.9% uptime
-- 🔒 **Security First:** Implemented zero-trust architectures and secure-by-design principles
-
----
-
-## 📫 Let's Connect
-
-I'm always open to discussing:
-- 🏗️ Software Architecture & System Design
-- ☁️ Cloud-Native & Distributed Systems
-- 🚀 Scalability & Performance Optimization
-- 🤖 AI/ML Integration in Enterprise Systems
-- 💼 Engineering Leadership & Best Practices
-
-**Feel free to reach out:**
-
-📧 **Email:** vagnercazarotto@gmail.com  
-
----
-
-<div align="center">
-
-### 💡 *"Bridging technology and business to create products that scale"*
-
-</div>
